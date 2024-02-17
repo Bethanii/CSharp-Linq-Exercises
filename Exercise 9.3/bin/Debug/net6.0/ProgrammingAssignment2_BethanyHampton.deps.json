@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProgrammingAssignment2_BethanyHampton/1.0.0": {
+        "runtime": {
+          "ProgrammingAssignment2_BethanyHampton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgrammingAssignment2_BethanyHampton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
